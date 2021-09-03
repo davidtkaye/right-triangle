@@ -43,7 +43,7 @@ public class RightTriangle{
   }
 
   /**
-   *  Used to get the height of the right triangle as a <code>double</code>.
+   *  Used to get the base of the right triangle as a <code>double</code>.
    *  @return the height of the right triangle.
    */
   public double getBase(){
