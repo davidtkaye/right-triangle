@@ -44,7 +44,7 @@ public class RightTriangle{
 
   /**
    *  Used to get the base of the right triangle as a <code>double</code>.
-   *  @return the height of the right triangle.
+   *  @return the base of the right triangle.
    */
   public double getBase(){
     return base;
